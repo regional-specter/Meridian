@@ -14,54 +14,19 @@ On May 1, 2026, the UAE exited OPEC after 59 years, becoming a fully independent
 
 ## 📚 Research & Theoretical Foundations
 
-This project is the result of an intensive 5-day research sprint into **Agentic AI**, **Decision Intelligence**, and **Energy Sovereignty**. The implementation transforms theoretical frameworks—specifically John Boyd's OODA Loop—into a functional multi-agent system tailored for the modern energy landscape.
+### 🔬 Academic Research & Technical Frameworks
+<p align="justify">
+  <img width="450" align="right" alt="Group 8649 (1) (1)" src="https://github.com/user-attachments/assets/e87005fa-4762-40d3-8a4c-1fd65fa6a33c" />
+  The technical architecture of this project is synthesized from an intensive survey of modern Multi-Agent Systems (MAS) and Agentic Operating Systems. By integrating the core tenets of the <b>ReAct</b> framework—which synergizes reasoning and acting—the system moves beyond static LLM responses toward goal-oriented autonomy. This foundation is further bolstered by Microsoft’s <b>AutoGen</b> research, enabling a modular environment where specialized agents collaborate on complex tasks. Implementation of <b>Toolformer</b> logic allows the agents to autonomously teach themselves to interface with external APIs, while recent 2026 advancements in <b>Edge-Extended Agentic AI (VIGIL)</b> ensure that the intelligence remains grounded and performant within enterprise IT infrastructures. These papers collectively provide the roadmap for a system that doesn't just process information but actively manipulates its environment to achieve state-driven objectives.
+</p>
 
----
+<br />
 
-### 🧠 Phase 1: The OODA Foundation
-*Developing the core cognitive architecture for the system.*
-
-* **John Boyd** — *"Destruction and Creation" (1976)*: The primary theoretical paper on mental models.
-* **John Boyd** — *"A Discourse on Winning and Losing"*: Original briefing slides via Air University.
-* **SwissUniversity.com (April 2026)** — *"From Fast Cycles to Intelligent Advantage"*: Reframing OODA for Agentic AI.
-* **F5 (2025)** — *"AI and the OODA Loop: Reimagining Operations"*.
-* **JAPCC (2022)** — *"Speeding Up the OODA Loop with AI"*.
-
-### 🤖 Phase 2: Multi-Agent Systems (MAS) & Agentic OS
-*Technical frameworks for autonomous reasoning and tool use.*
-
-* **Wang et al.** — *"A Survey on LLM-based Autonomous Agents"* (arXiv:2308.11432).
-* **Yao et al.** — *"ReAct: Synergizing Reasoning and Acting in LLMs"* (arXiv:2210.03629).
-* **Microsoft Research** — *"AutoGen: Enabling Next-Gen LLM Applications"* (arXiv:2308.08155).
-* **Schick et al.** — *"Toolformer: Language Models Can Teach Themselves to Use Tools"*.
-* **VIGIL (2026)** — *"Towards Edge-Extended Agentic AI for Enterprise IT Support"* (arXiv:2603.16110).
-
-### 🛢️ Phase 3: Energy Domain & Industrial AI
-*Contextualizing AI within the upstream and downstream oil & gas sector.*
-
-* **Koroteev & Tekic** — *"AI in Oil and Gas Upstream: Trends and Challenges"* (ScienceDirect 2021).
-* **CrudeCast (2025)** — *"Agentic AI Systems' Potential in Upstream Oil & Gas"*.
-* **XenonStack (2026)** — *"Re-Imagining the Oil and Gas Industry with Agentic AI"*.
-* **AIQ ENERGYai** — Technical documentation and ADIPEC published materials.
-* **ADNOC Panorama** — Command Center case studies (GITEX/ADIPEC white papers).
-
-### 📈 Phase 4: Decision Intelligence & Uncertainty
-*Designing for feedback loops, noise filtering, and predictive accuracy.*
-
-* **Lorien Pratt** — *"Decision Intelligence: An AI Approach to Business Decision Making"*.
-* **Donella Meadows** — *"Thinking in Systems"*: Critical for designing system feedback loops.
-* **Nate Silver** — *"The Signal and the Noise"*: Applied to the **Observe** layer of the OODA loop.
-* **Glasserman** — *"Monte Carlo Methods in Financial Engineering"*: For scenario simulation modules.
-* **Tetlock & Gardner** — *"Superforecasting"*: Methods for quantitative prediction accuracy.
-
-### ⚖️ Phase 5: Governance & Sovereign AI
-*Ensuring explainability and alignment in industrial applications.*
-
-* **Vaswani et al.** — *"Attention Is All You Need"*: The foundational Transformer architecture.
-* **Anthropic (2022)** — *"Constitutional AI: Harmlessness from AI Feedback"*.
-* **Zhao et al.** — *"Explainability for LLMs: A Survey"* (arXiv:2309.01029).
-* **IEA (2024)** — *"Responsible AI in the Energy Sector"*.
-* **Grieves (2022)** — *"Digital Twins for Industrial Applications"*.
+### 🏛️ Core Principles & Decision Intelligence
+<p align="justify">
+  <img width="350" align="left" alt="Group 8650" src="https://github.com/user-attachments/assets/5689a465-38a8-4c17-ac89-a979365307ab" />
+  Beyond technical execution, the cognitive engine of this project is rooted in <b>John Boyd’s OODA Loop</b>, specifically leveraging the mental model structures found in <i>"Destruction and Creation."</i> This allows the system to navigate high-entropy environments by emphasizing the 'Orient' phase—where raw data is filtered through existing knowledge to form actionable insights. To handle the inherent uncertainty of global energy and economic landscapes, the implementation incorporates <b>Systems Thinking</b> principles from Donella Meadows, ensuring that internal feedback loops prevent systemic drift. By applying Nate Silver’s <i>"Signal and the Noise"</i> methodologies for data ingestion and <b>Monte Carlo simulations</b> for scenario modeling, the system maintains a high degree of predictive accuracy. These combined principles, alongside <b>Superforecasting</b> techniques, transition the project from a standard automation tool to a "Sovereign-Grade" intelligence capable of making high-stakes decisions under volatility.
+</p>
 
 ---
 
