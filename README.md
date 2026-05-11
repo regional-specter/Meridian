@@ -12,6 +12,65 @@ On May 1, 2026, the UAE exited OPEC after 59 years, becoming a fully independent
 
 ---
 
+## 📚 Research & Theoretical Foundations
+
+This project is the result of an intensive 5-day research sprint into **Agentic AI**, **Decision Intelligence**, and **Energy Sovereignty**. The implementation transforms theoretical frameworks—specifically John Boyd's OODA Loop—into a functional multi-agent system tailored for the modern energy landscape.
+
+---
+
+### 🧠 Phase 1: The OODA Foundation
+*Developing the core cognitive architecture for the system.*
+
+* **John Boyd** — *"Destruction and Creation" (1976)*: The primary theoretical paper on mental models.
+* **John Boyd** — *"A Discourse on Winning and Losing"*: Original briefing slides via Air University.
+* **SwissUniversity.com (April 2026)** — *"From Fast Cycles to Intelligent Advantage"*: Reframing OODA for Agentic AI.
+* **F5 (2025)** — *"AI and the OODA Loop: Reimagining Operations"*.
+* **JAPCC (2022)** — *"Speeding Up the OODA Loop with AI"*.
+
+### 🤖 Phase 2: Multi-Agent Systems (MAS) & Agentic OS
+*Technical frameworks for autonomous reasoning and tool use.*
+
+* **Wang et al.** — *"A Survey on LLM-based Autonomous Agents"* (arXiv:2308.11432).
+* **Yao et al.** — *"ReAct: Synergizing Reasoning and Acting in LLMs"* (arXiv:2210.03629).
+* **Microsoft Research** — *"AutoGen: Enabling Next-Gen LLM Applications"* (arXiv:2308.08155).
+* **Schick et al.** — *"Toolformer: Language Models Can Teach Themselves to Use Tools"*.
+* **VIGIL (2026)** — *"Towards Edge-Extended Agentic AI for Enterprise IT Support"* (arXiv:2603.16110).
+
+### 🛢️ Phase 3: Energy Domain & Industrial AI
+*Contextualizing AI within the upstream and downstream oil & gas sector.*
+
+* **Koroteev & Tekic** — *"AI in Oil and Gas Upstream: Trends and Challenges"* (ScienceDirect 2021).
+* **CrudeCast (2025)** — *"Agentic AI Systems' Potential in Upstream Oil & Gas"*.
+* **XenonStack (2026)** — *"Re-Imagining the Oil and Gas Industry with Agentic AI"*.
+* **AIQ ENERGYai** — Technical documentation and ADIPEC published materials.
+* **ADNOC Panorama** — Command Center case studies (GITEX/ADIPEC white papers).
+
+### 📈 Phase 4: Decision Intelligence & Uncertainty
+*Designing for feedback loops, noise filtering, and predictive accuracy.*
+
+* **Lorien Pratt** — *"Decision Intelligence: An AI Approach to Business Decision Making"*.
+* **Donella Meadows** — *"Thinking in Systems"*: Critical for designing system feedback loops.
+* **Nate Silver** — *"The Signal and the Noise"*: Applied to the **Observe** layer of the OODA loop.
+* **Glasserman** — *"Monte Carlo Methods in Financial Engineering"*: For scenario simulation modules.
+* **Tetlock & Gardner** — *"Superforecasting"*: Methods for quantitative prediction accuracy.
+
+### ⚖️ Phase 5: Governance & Sovereign AI
+*Ensuring explainability and alignment in industrial applications.*
+
+* **Vaswani et al.** — *"Attention Is All You Need"*: The foundational Transformer architecture.
+* **Anthropic (2022)** — *"Constitutional AI: Harmlessness from AI Feedback"*.
+* **Zhao et al.** — *"Explainability for LLMs: A Survey"* (arXiv:2309.01029).
+* **IEA (2024)** — *"Responsible AI in the Energy Sector"*.
+* **Grieves (2022)** — *"Digital Twins for Industrial Applications"*.
+
+---
+
+### 🇦🇪 Contextual Layer: UAE Geopolitical Strategy
+The project specifically addresses the technical requirements of an independent energy strategy following the **UAE's exit from OPEC in April 2026**. 
+
+* **Market Impact:** Analyzed through reports from *Al Jazeera*, *The National*, and *The Conversation* regarding the "No More Quotas" era.
+* **Technical Modernization:** Grounded in the **SLB and AIQ (2025)** deployment of Agentic AI across ADNOC’s subsurface operations and the **EnkiAI** report on ADNOC’s 2025 AI revolution.
+
 ## System Architecture Overview
 
 Meridian’s design is structured as a four-layer OODA loop, continuously cycling with each layer feeding the next and outcomes feeding back to Observe.
