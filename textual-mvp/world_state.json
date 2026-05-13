@@ -1,0 +1,35 @@
+{
+    "ESGAgent": {
+        "agent": "ESGAgent",
+        "timestamp": "2026-05-13T16:25:01.619557",
+        "status": "success",
+        "data": {
+            "low_carbon_premium_usd": 0.86,
+            "emission_intensity_score": "low",
+            "carbon_market_sentiment": "bullish",
+            "net_zero_alignment": "on_track",
+            "methane_status": "nominal"
+        },
+        "metrics": {
+            "confidence": 0.7,
+            "trend": "improving"
+        }
+    },
+    "last_update": "2026-05-13T16:25:10.602202",
+    "DemandAgent": {
+        "agent": "DemandAgent",
+        "timestamp": "2026-05-13T16:25:10.602157",
+        "status": "success",
+        "data": {
+            "peak_demand_risk": 0.72,
+            "china_ev_adoption_rate": "47.5%",
+            "est_displacement_bpd": 875000,
+            "refinery_utilization_forecast": "moderate",
+            "strategic_window": "open"
+        },
+        "metrics": {
+            "confidence": 0.75,
+            "trend": "plateauing"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "GeopoliticalAgent": {
+        "agent": "GeopoliticalAgent",
+        "timestamp": "2026-05-13T16:36:05.884495",
+        "status": "success",
+        "data": {
+            "hormuz_risk_index": 0.5,
+            "trend": "escalating",
+            "relevant_headlines": [
+                "Gulf States to Win NATO Summit Invites With Iran War on Agenda",
+                "Trump Lands in China for High-Stakes Trade Summit as Iran Looms"
+            ],
+            "status": "active"
+        },
+        "metrics": {
+            "confidence": 0.85,
+            "trend": "escalating"
+        }
+    },
+    "last_update": "2026-05-13T16:36:06.840314",
+    "MarketAgent": {
+        "agent": "MarketAgent",
+        "timestamp": "2026-05-13T16:36:06.837500",
+        "status": "success",
+        "data": {
+            "brent_price": 107.54,
+            "price_change_pct": -0.21,
+            "market_regime": "stable_growth",
+            "volatility": "low",
+            "benchmark": "Brent Crude (ICE)"
+        },
+        "metrics": {
+            "confidence": 0.9,
+            "trend": "bullish"
+        }
+    },
+    "DemandAgent": {
+        "agent": "DemandAgent",
+        "timestamp": "2026-05-13T16:36:06.837543",
+        "status": "success",
+        "data": {
+            "peak_demand_risk": 0.72,
+            "china_ev_adoption_rate": "47.5%",
+            "est_displacement_bpd": 875000,
+            "refinery_utilization_forecast": "moderate",
+            "strategic_window": "open"
+        },
+        "metrics": {
+            "confidence": 0.75,
+            "trend": "plateauing"
+        }
+    },
+    "LogisticsAgent": {
+        "agent": "LogisticsAgent",
+        "timestamp": "2026-05-13T16:36:06.837555",
+        "status": "success",
+        "data": {
+            "logistics_constraint_index": 0.46,
+            "effective_export_capacity_mbpd": 4.56,
+            "fujairah_utilization": "75%",
+            "strait_status": "open",
+            "vessels_active": 16
+        },
+        "metrics": {
+            "confidence": 0.8,
+            "trend": "fluid"
+        }
+    },
+    "ESGAgent": {
+        "agent": "ESGAgent",
+        "timestamp": "2026-05-13T16:36:06.837565",
+        "status": "success",
+        "data": {
+            "low_carbon_premium_usd": 0.86,
+            "emission_intensity_score": "low",
+            "carbon_market_sentiment": "bullish",
+            "net_zero_alignment": "on_track",
+            "methane_status": "nominal"
+        },
+        "metrics": {
+            "confidence": 0.7,
+            "trend": "improving"
+        }
+    },
+    "FieldAgent": {
+        "agent": "FieldAgent",
+        "timestamp": "2026-05-13T16:36:06.837575",
+        "status": "success",
+        "data": {
+            "production_ceiling_mbpd": 4.18,
+            "ramp_up_readiness_24h": 0.47,
+            "reservoir_health": "stable",
+            "spare_capacity_mbpd": 0.78,
+            "equipment_risk": "low"
+        },
+        "metrics": {
+            "confidence": 0.95,
+            "trend": "stagnant"
+        }
+    },
+    "CompetitorAgent": {
+        "agent": "CompetitorAgent",
+        "timestamp": "2026-05-13T16:36:06.837582",
+        "status": "success",
+        "data": {
+            "saudi_discipline": "holding",
+            "uae_cost_advantage_usd": 44.0,
+            "production_war_probability": 0.15,
+            "competitor_actual_vs_stated_gap": "1.8M bpd",
+            "market_share_capture_potential": "High"
+        },
+        "metrics": {
+            "confidence": 0.65,
+            "trend": "disciplined"
+        }
+    }
+}
